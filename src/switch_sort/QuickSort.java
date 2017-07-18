@@ -1,4 +1,4 @@
-package switchSort;
+package switch_sort;
 /**
  * 快速排序
  * @author tutu

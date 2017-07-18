@@ -1,4 +1,4 @@
-package switchSort;
+package switch_sort;
 
 /**
  * 冒泡排序
@@ -19,7 +19,7 @@ public class BubbleSort {
 			return;
 		}
 				
-		int i = 0,j = 0;
+		int i = 0;
 		int flag = a.length;
 		int k = 0;
 		

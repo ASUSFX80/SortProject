@@ -1,4 +1,4 @@
-package insertSort;
+package insert_sort;
 
 import utils.Utils;
 
